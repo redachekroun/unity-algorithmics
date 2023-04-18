@@ -17,4 +17,3 @@ public class Button : MonoBehaviour
         button.enabled = true;
         toOpen.enabled = true;
     }
-}    
